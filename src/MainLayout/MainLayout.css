@@ -1,0 +1,10 @@
+
+
+.lay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    padding: 100px;
+    font-family:Arial, Helvetica, sans-serif;
+}
